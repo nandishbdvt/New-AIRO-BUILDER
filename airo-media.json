@@ -1,0 +1,210 @@
+{
+  "pages/home/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2199009405",
+    "searchQuery": "engineering college campus India university building",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2245068706",
+      "https://img1.wsimg.com/isteam/getty/2210098991",
+      "https://img1.wsimg.com/isteam/getty/649609256",
+      "https://img1.wsimg.com/isteam/getty/2257380017"
+    ],
+    "userModified": true,
+    "createdAt": "2026-05-09T05:14:32.289Z",
+    "lastUpdated": "2026-05-09T05:15:38.820Z",
+    "gettyId": "2199009405",
+    "alternativeGettyIds": [
+      "2245068706",
+      "2210098991",
+      "649609256",
+      "2257380017"
+    ],
+    "orientations": "horizontal",
+    "compositions": "wide_shot",
+    "minimumSize": "x_large"
+  },
+  "pages/home/courses-section": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2172638912",
+    "searchQuery": "engineering students working in computer lab university India",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1448069413",
+      "https://img1.wsimg.com/isteam/getty/1395862008"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-09T05:14:33.365Z",
+    "lastUpdated": "2026-05-09T05:14:33.365Z",
+    "gettyId": "2172638912",
+    "alternativeGettyIds": [
+      "1448069413",
+      "1395862008"
+    ],
+    "orientations": "horizontal",
+    "numberOfPeople": "group"
+  },
+  "pages/home/placements-section": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1443301982",
+    "searchQuery": "professional business handshake corporate recruitment campus placement",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2184295789",
+      "https://img1.wsimg.com/isteam/getty/2162514236"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-09T05:14:34.762Z",
+    "lastUpdated": "2026-05-09T05:14:34.762Z",
+    "gettyId": "1443301982",
+    "alternativeGettyIds": [
+      "2184295789",
+      "2162514236"
+    ],
+    "orientations": "horizontal"
+  },
+  "pages/home/library": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1351416161",
+    "searchQuery": "university college library books reading India",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2228320426",
+      "https://img1.wsimg.com/isteam/getty/2190667424"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-09T05:14:35.134Z",
+    "lastUpdated": "2026-05-09T05:14:35.134Z",
+    "gettyId": "1351416161",
+    "alternativeGettyIds": [
+      "2228320426",
+      "2190667424"
+    ],
+    "orientations": "horizontal"
+  },
+  "pages/home/lab": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1431126941",
+    "searchQuery": "engineering computer lab students technology university",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2241324605",
+      "https://img1.wsimg.com/isteam/getty/946237080"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-09T05:14:35.625Z",
+    "lastUpdated": "2026-05-09T05:14:35.625Z",
+    "gettyId": "1431126941",
+    "alternativeGettyIds": [
+      "2241324605",
+      "946237080"
+    ],
+    "orientations": "horizontal"
+  },
+  "pages/home/hostel": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2214899785",
+    "searchQuery": "college hostel dormitory student accommodation campus",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1475782109",
+      "https://img1.wsimg.com/isteam/getty/2216137793"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-09T05:14:36.429Z",
+    "lastUpdated": "2026-05-09T05:14:36.429Z",
+    "gettyId": "2214899785",
+    "alternativeGettyIds": [
+      "1475782109",
+      "2216137793"
+    ],
+    "orientations": "horizontal"
+  },
+  "pages/home/sports": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2089059898",
+    "searchQuery": "college sports complex ground students playing outdoor campus",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2153450191",
+      "https://img1.wsimg.com/isteam/getty/1998008754"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-09T05:14:37.061Z",
+    "lastUpdated": "2026-05-09T05:14:37.061Z",
+    "gettyId": "2089059898",
+    "alternativeGettyIds": [
+      "2153450191",
+      "1998008754"
+    ],
+    "orientations": "horizontal"
+  },
+  "pages/home/principal": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1455343221",
+    "searchQuery": "Indian professor academic dean university faculty professional portrait",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2258748230",
+      "https://img1.wsimg.com/isteam/getty/149452771"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-09T05:14:39.071Z",
+    "lastUpdated": "2026-05-09T05:14:39.071Z",
+    "gettyId": "1455343221",
+    "alternativeGettyIds": [
+      "2258748230",
+      "149452771"
+    ],
+    "orientations": "vertical,square",
+    "compositions": "headshot,portrait",
+    "numberOfPeople": "one"
+  },
+  "pages/courses/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2245126009",
+    "searchQuery": "engineering students classroom lecture university India",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1330255700",
+      "https://img1.wsimg.com/isteam/getty/2170334004"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-09T05:24:10.199Z",
+    "lastUpdated": "2026-05-09T05:24:10.199Z",
+    "gettyId": "2245126009",
+    "alternativeGettyIds": [
+      "1330255700",
+      "2170334004"
+    ],
+    "orientations": "horizontal",
+    "compositions": "wide_shot"
+  },
+  "pages/facilities/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1350827841",
+    "searchQuery": "university faculty professor academic staff meeting India",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2195252757",
+      "https://img1.wsimg.com/isteam/getty/1330255704"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-09T05:27:02.539Z",
+    "lastUpdated": "2026-05-09T05:38:03.028Z",
+    "gettyId": "1350827841",
+    "alternativeGettyIds": [
+      "2195252757",
+      "1330255704"
+    ],
+    "orientations": "horizontal"
+  },
+  "pages/facilities/canteen": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1409519679",
+    "searchQuery": "college canteen cafeteria students eating food court India",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/912396890",
+      "https://img1.wsimg.com/isteam/getty/117955775"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-09T05:27:07.128Z",
+    "lastUpdated": "2026-05-09T05:27:07.128Z",
+    "gettyId": "1409519679",
+    "alternativeGettyIds": [
+      "912396890",
+      "117955775"
+    ],
+    "orientations": "horizontal"
+  }
+}
