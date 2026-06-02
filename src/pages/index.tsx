@@ -251,48 +251,55 @@ export default function HomePage() {
         </div>
 
       {/* Content */}
-<div className="relative z-10 overflow-hidden py-4 bg-[#0D1B3E]">
+<div className="relative z-10 overflow-hidden py-16 bg-[#0D1B3E]">
   {/* Marquee */}
   <div className="relative w-full overflow-hidden mb-16">
-    <motion.div
-      className="flex gap-6 w-max"
-      animate={{ x: ['0%', '-50%'] }}
-      transition={{
+   <div className="relative w-full overflow-hidden">
+  <motion.div
+    className="flex gap-6 w-max"
+    animate={{ x: [0, "-50%"] }}
+    transition={{
+      x: {
         repeat: Infinity,
-        duration: 25,
-        ease: 'linear',
-      }}
-    >
-      {[
-        '/img/vtuathleticsmeet.jpg',
-        '/img/techzone.jpg',
-        '/img/beorient.jpg',
-        '/img/kscst.jpg',
-        '/img/graduationpg.jpg',
-		'/img/graduationbe.jpg',
-		
+        repeatType: "loop",
+        duration: 30,
+        ease: "linear",
+      },
+    }}
+    style={{ willChange: "transform" }}
+  >
+    {[
+      "/img/vtuathleticsmeet.jpg",
+      "/img/techzone.jpg",
+      "/img/beorient.jpg",
+      "/img/kscst.jpg",
+      "/img/graduationpg.jpg",
+      "/img/graduationbe.jpg",
 
-        // Duplicate images for smooth infinite loop
-        '/img/vtuathleticsmeet.jpg',
-        '/img/techzone.jpg',
-        '/img/beorient.jpg',
-        '/img/kscst.jpg',
-        '/img/graduationpg.jpg',
-		'/img/graduationbe.jpg',
-      ].map((image, index) => (
-        <div
-          key={index}
-         className="min-w-[320px] sm:min-w-[400px] lg:min-w-[500px] h-[220px] sm:h-[280px] lg:h-[320px] rounded-2xl overflow-hidden shadow-2xl border border-white/10"
-		 // className="min-w-[500px] sm:min-w-[650px] lg:min-w-[850px] h-[350px] sm:h-[450px] lg:h-[550px] rounded-2xl overflow-hidden shadow-2xl border border-white/10"
-        >
-          <img
-            src={`${import.meta.env.BASE_URL}${image}`}
-            alt={`Campus ${index + 1}`}
-            className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
-          />
-        </div>
-      ))}
-    </motion.div>
+      // Duplicate images
+      "/img/vtuathleticsmeet.jpg",
+      "/img/techzone.jpg",
+      "/img/beorient.jpg",
+      "/img/kscst.jpg",
+      "/img/graduationpg.jpg",
+      "/img/graduationbe.jpg",
+    ].map((image, index) => (
+      <div
+        key={index}
+        className="flex-shrink-0 min-w-[320px] sm:min-w-[400px] lg:min-w-[500px]
+                   h-[220px] sm:h-[280px] lg:h-[320px]
+                   rounded-2xl overflow-hidden shadow-2xl border border-white/10"
+      >
+        <img
+          src={`${import.meta.env.BASE_URL}${image}`}
+          alt={`Campus ${index + 1}`}
+          loading="eager"
+          className="w-full h-full object-cover"
+        />
+      </div>
+    ))}
+  </motion.div>
+</div>
 
     {/* Left Fade */}
     <div className="absolute left-0 top-0 h-full w-24 bg-gradient-to-r from-[#0D1B3E] to-transparent z-10" />
