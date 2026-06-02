@@ -131,8 +131,8 @@ export default defineConfig({
 	},
 
 	build: {
-		outDir: "dist/client",
-		emptyOutDir: true,
+		outDir: ".",
+		emptyOutDir: false,
 		copyPublicDir: true,
 	},
 });
